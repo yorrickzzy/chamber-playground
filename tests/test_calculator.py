@@ -2,4 +2,4 @@ from calculator import add
 
 
 def test_add():
-    assert add(3, 5) == 7
+    assert add(3, 6) == 7
